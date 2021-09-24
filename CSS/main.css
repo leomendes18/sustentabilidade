@@ -1,0 +1,751 @@
+body {
+    background-color: #deefcd;
+}
+.imagem{
+    display: block;
+    margin-top: -8px;
+    margin-bottom: auto;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 900;
+    color: white;
+    margin-top: -120px;
+}
+.subtitulo{
+    text-align: center;
+    font-size: 18px;
+    line-height: 5px;
+    font-family: rajdhani,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-weight: 900;
+}
+.subtitulo2{
+    width: 1000px;
+    font-family: rajdhani,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    margin-top: 50px;
+    text-align: left;
+    margin-left: 290px;
+}
+.imagem1 {
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imagem2 {
+    display: block;
+    margin-left: 640px;
+    margin-right: 400px;
+    border-radius: 7px;
+    width: 500px;
+    height: 350px;
+    margin-top: -50px;
+}
+.video {
+    margin-left: 250px;
+}
+.b1 {
+    margin-left: 800px;
+    background-color: #77E37C;
+    border-color: white;
+}
+.b1:hover{
+    border-color: #77E37C;
+}
+.b2{
+    position: absolute;
+    margin-left: -600px;
+    background-color: #77E37C;
+    border-color: white;
+}
+.b2:hover{
+    border-color: #77E37C;
+}
+.b21{
+    margin-left: 300px;
+    background-color: #77E37C;
+    border-color: white;
+}
+.b21:hover{
+    border-color: #77E37C;
+}
+.b3 {
+    margin-left: 750px;
+    background-color: #77E37C;
+    border-color: white;
+}
+.b3:hover{
+    border-color: #77E37C;
+}
+.image{
+    height: 20px;
+}
+.arq{
+    height: 16px;
+}
+.energia{
+    height: 16px;
+}
+.reflorestamento1{
+    height: 14px;
+}
+.energia1{
+    height: 16px;
+}
+.bio{
+    height: 14px;
+}
+.mudanças{
+    height: 16px;
+}
+.equipe{
+    height: 20px;
+}
+.contatos{
+    height: 14px;
+}
+.texto{
+    margin-left: 330px;
+    margin-right: 330px;
+    margin-top: 60px;
+    text-align: left;
+    font-family: rajdhani,sans-serif;
+    color: black;
+}
+.texto1{
+    margin-left: 330px;
+    margin-right: 330px;
+    margin-top: 30px;
+    text-align: left;
+    font-family: rajdhani,sans-serif;
+    color: black;
+}
+.texto2{
+    font-family: rajdhani,sans-serif;
+    line-height: 20px;
+    text-align: center;
+    margin-top: -300px;
+    margin-left: 225px;
+    margin-right: 730px;
+}
+.texto5{
+    font-family: Roboto;
+    font-size: 15px;
+    text-align: center;
+}
+.texto3{
+    font-family: rajdhani,sans-serif;
+    text-align: left;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+.texto3{
+    font-family: rajdhani,sans-serif;
+    text-align: left;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+.texto31{
+    font-family: rajdhani,sans-serif;
+    text-align: left;
+    margin-left: 170px;
+    margin-right: 700px;
+}
+.texto3{
+    font-family: rajdhani,sans-serif;
+    text-align: left;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+.texto32{
+    font-family: rajdhani,sans-serif;
+    text-align: left;
+    margin-left: 170px;
+    margin-right: 170px;
+    margin-top: -15px;
+}
+.texto4{
+    position: absolute;
+    text-align: left;
+    font-family: rajdhani,sans-serif;
+    margin-top: -315px;
+    margin-left: 680px;
+    margin-right: 160px;
+}
+.texto41{
+    position: absolute;
+    font-family: rajdhani,sans-serif;
+    text-align: left;
+    margin-top: -180px;
+    margin-left: 680px;
+    margin-right: 160px;
+}
+.texto42{
+    position: absolute;
+    font-family: rajdhani,sans-serif;
+    text-align: left;
+    margin-top: -116px;
+    margin-left: 680px;
+    margin-right: 160px;
+}
+.descrição{
+    text-align: center;
+    margin-top: 0px;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.descrição2{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 5px;
+}
+.descrição3{
+    font-size: 14px;
+    margin-top: 5px;
+    margin-left: 270px;
+}
+.descrição4{
+    font-size: 14px;
+    margin-top: 5px;
+    margin-left: 790px;
+    margin-top: -30px;
+}
+.descrição5{
+    font-size: 14px;
+    margin-top: 5px;
+    text-align: center;
+}
+.descrição6{
+    font-size: 14px;
+    margin-top: 5px;
+    text-align: center;
+    margin-right: 15px;
+}
+.descrição7{
+    font-size: 14px;
+    margin-top: 5px;
+    text-align: center;
+}
+.descrição8{
+    font-size: 14px;
+    margin-top: 5px;
+    margin-left: 285px;
+}
+.descrição9{
+    font-size: 14px;
+    margin-top: 0px;
+    margin-left: 290px;
+}
+.descrição10{
+    font-size: 14px;
+    margin-top: 0px;
+    text-align: center;
+}
+.descrição11{
+    font-size: 14px;
+    margin-top: 0px;
+    margin-left: 320px;
+}
+.link12{
+    text-decoration: none;
+}
+.link1{
+    text-align: center;
+}
+.subtitulo3{
+    text-align: center;
+    margin-top: 60px;
+}
+.lista1{
+    font-family: rajdhani,sans-serif;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.subtitulo4{
+    text-align: center;
+    margin-top: 50px;
+}
+.lista2{
+    font-family: rajdhani,sans-serif;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.lista21{
+    font-family: rajdhani,sans-serif;
+    margin-left: 150px;
+    margin-right: 170px;
+}
+.sugestao1{
+    font-family: rajdhani,sans-serif;
+    text-align: left;
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-top: 50px;
+}
+.subtitulo3{
+    text-align: center;
+}
+.titulo2{
+    font-weight: bold;
+    text-align: center;
+}
+.titulo3{
+    font-family: rajdhani,sans-serif;
+    margin-left: 170px;
+}
+.xisto{
+    position: absolute;
+    margin-left: 700px;
+    height: 200px;
+    width: 400px;
+    margin-top: -3px;
+    border-radius: 7px;
+}
+.horizonte{
+    margin-left: 170px;
+    height: 290px;
+    border-radius: 7px;
+}
+.flutuante{
+    position: absolute;
+    height: 290px;
+    margin-left: 60px;
+    border-radius: 7px;
+}
+.eolico{
+    height: 300px;
+    margin-left: 350px;
+    border-radius: 7px;
+}
+.itaipu{
+    height: 300px;
+    margin-left: 430px;
+    border-radius: 7px;
+}
+.video1{
+    margin-left: 380px;
+}
+.video2{
+    position: absolute;
+    margin-left: 750px;
+    height: 250px;
+    width: 400px;
+    margin-top: -300px;
+}
+.video3{
+    position: absolute;
+    margin-left: 720px;
+    height: 280px;
+    width: 430px;
+    margin-top: -320px;
+}
+.geotermica{
+    height: 300px;
+    margin-left: 410px;
+    border-radius: 7px;
+}
+.pecem{
+    margin-left: 170px;
+    height: 280px;
+    border-radius: 7px;
+}
+.link{
+    margin-left: 260px;
+}
+.palm{
+    margin-left: 170px;
+    border-radius: 7px;
+    height: 280px;
+    width: 470px;
+}
+.queimada{
+    height: 350px;
+    width: 650px;
+    border-radius: 7px;
+    margin-left: 350px;
+}
+.reflorestamento{
+    margin-left: 170px;
+    height: 300px;
+    border-radius: 7px;
+}
+.floresta{
+    position: absolute;
+    border-radius: 7px;
+    height: 300px;
+    margin-left: 70px;
+}
+.barreira{
+    height: 300px;
+    width: 500px;
+    margin-left: 170px;
+    border-radius: 7px;
+}
+.lista3{
+    list-style-type: decimal;
+    font-family: rajdhani,sans-serif;
+    text-align: left;
+    margin-left: 170px;
+}
+.nome1{
+    margin-left: 170px;
+}
+.animal1{
+    width: 160px;
+    height: 100px;
+    caption-side: top;
+    text-align: center;
+    margin-left: 170px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.animal1:hover{
+    -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.25);
+}
+.nome2{
+    margin-left: 350px;
+    position: absolute;
+    margin-top: -137px;
+}
+.animal2{
+    width: 160px;
+    height: 100px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 0px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.animal2:hover{
+    -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.25);
+}
+.nome3{
+    margin-left: 530px;
+    position: absolute;
+    margin-top: -137px;
+}
+.animal3{
+    width: 160px;
+    height: 100px;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 0px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.animal3:hover{
+    -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.25);
+}
+.nome4{
+    margin-left: 710px;
+    position: absolute;
+    margin-top: -137px;
+}
+.animal4{
+    width: 160px;
+    height: 100px;
+    position: absolute;
+    margin-left: 380px;
+    margin-top: 0px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.animal4:hover{
+    -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.25);
+}
+.nome5{
+    margin-left: 890px;
+    position: absolute;
+    margin-top: -137px;
+}
+.animal5{
+    width: 160px;
+    height: 100px;
+    position: absolute;
+    margin-left: 560px;
+    margin-top: 0px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.animal5:hover{
+    -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.25);
+}
+.nome6{
+    margin-left: 1070px;
+    position: absolute;
+    margin-top: -137px;
+}
+.animal6{
+    width: 90px;
+    height: 100px;
+    position: absolute;
+    margin-left: 740px;
+    margin-top: 0px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.animal6:hover{
+    -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.25);
+}
+.nome7{
+    margin-left: 170px;
+    position: absolute;
+    margin-top: 10px;
+}
+.animal7{
+    width: 160px;
+    height: 100px;
+    position: absolute;
+    margin-left: -160px;
+    margin-top: 150px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.animal7:hover{
+    -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.25);
+}
+.nome8{
+    margin-left: 350px;
+    position: absolute;
+    margin-top: 10px;
+}
+.animal8{
+    width: 160px;
+    height: 100px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 150px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.animal8:hover{
+    -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.25);
+}
+.nome9{
+    margin-left: 530px;
+    position: absolute;
+    margin-top: 10px;
+}
+.animal9{
+    width: 160px;
+    height: 100px;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 150px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.animal9:hover{
+    -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.25);
+}
+.nome10{
+    margin-left: 710px;
+    position: absolute;
+    margin-top: 10px;
+}
+.animal10{
+    width: 160px;
+    height: 100px;
+    position: absolute;
+    margin-left: 380px;
+    margin-top: 150px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.animal10:hover{
+    -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.25);
+}
+.nome11{
+    margin-left: 890px;
+    position: absolute;
+    margin-top: 10px;
+}
+.animal11{
+    width: 160px;
+    height: 100px;
+    position: absolute;
+    margin-left: 560px;
+    margin-top: 150px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.animal11:hover{
+    -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.25);
+}
+.nome12{
+    margin-left: 1070px;
+    position: absolute;
+    margin-top: 10px;
+}
+.animal12{
+    width: 90px;
+    height: 100px;
+    position: absolute;
+    margin-left: 740px;
+    margin-top: 150px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.animal12:hover{
+    -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.25);
+}
+.titulo4{
+    text-align: center;
+    margin-top: 200px;
+}
+.titulo5{
+    text-align: center;
+
+}
+.derretimento{
+    margin-left: 170px;
+    height: 300px;
+    width: 500px;
+}
+.tornado{
+    position: absolute;
+    margin-left: 10px;
+    height: 300px;
+    width: 500px;
+}
+.queimada1{
+    margin-left: 170px;
+    height: 300px;
+    width: 500px;
+    margin-top: 5px;
+}
+.seca{
+    position: absolute;
+    margin-left: 10px;
+    height: 300px;
+    width: 500px;
+    margin-top: 5px;
+}
+.poluição{
+    margin-left: 270px;
+    height: 450px;
+    width: 800px;
+}
+.contato1{
+    height: 300px;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.nomecontato1{
+    margin-left: 310px;
+    font-size: 25px;
+    margin-top: 0px;
+}
+.apr{
+    text-align: center;
+    margin-left: 250px;
+    font-size: 25px;
+    margin-right: 250px;
+}
+.formulario{
+    margin-left: 550px;
+    margin-top: 150px;
+}
+.contato2{
+    position: absolute;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.nomecontato2{
+    margin-left: 780px;
+    font-size: 25px;
+    margin-top: -52px;
+}
